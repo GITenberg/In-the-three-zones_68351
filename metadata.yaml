@@ -1,0 +1,41 @@
+_repo: In-the-three-zones_68351
+_version: 0.0.1
+alternative_title: In the 3 zones
+creator:
+  author:
+    agent_name: Stimson, Frederic Jesup
+    aliases:
+    - Stimson, F. J. (Frederic Jesup)
+    - Dale, J. S. of
+    - J. S. of Dale
+    - Stimson, Frederic J. (Frederic Jesup)
+    birthdate: 1855
+    deathdate: 1943
+    gutenberg_agent_id: '8370'
+    url: http://www.gutenberg.org/2009/agents/8370
+    wikipedia: https://en.wikipedia.org/wiki/Frederic_Jesup_Stimson
+description: ''
+gutenberg_issued: '2022-06-20'
+identifiers:
+  gutenberg: '68351'
+language: en
+pgterms:marc904: https://archive.org/details/threezones00stimrich/mode/2up
+pgterms:marc905: 20201211142141stimson
+pgterms:marc906: '1893'
+pgterms:marc907: US
+production_note: D A Alexander and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by University of California
+  libraries)
+publication_note: United States :Charles Scribner's Sons,1893.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American fiction -- 19th century'
+- GITenberg
+tableOfContents: 'Dr. Materialismus: his hypothesis worked out -- An Alabama courtship:
+  its simplicities and its complexities -- Los Caraqueños: being the history of Don
+  Sebastian Marques del Torre and of Dolores, his wife, Condesa de Luna.'
+title: In the three zones
+url: http://www.gutenberg.org/ebooks/68351
